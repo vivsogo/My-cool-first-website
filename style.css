@@ -7,12 +7,12 @@ h2 { text-align: center;
 h3 {text-align: center;
 color: lightcyan;
 font-style: italic;}
-p1 {text-align: center;}
 
 body{ background-color: teal;
 }
 p {text-align: center;
 color: lightgray;}
+
 img { 
     max-width: 200px;
     max-height: 100%;
